@@ -23,7 +23,7 @@ git clone https://github.com/surferintaiwan/Semester3-A5-login-feature.git
 ```
 2. 於終端機打開專案檔案
 ```
-cd Semester3-A4-shit-talk-generator
+cd Semester3-A5-login-feature
 ```
 3. 於終端機安裝npm
 
