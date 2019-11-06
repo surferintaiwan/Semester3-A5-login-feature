@@ -2,7 +2,7 @@
 此為驗證使用者帳號密碼之網頁。
 
 ## 網站截圖
-![網站截圖](https://github.com/surferintaiwan/A4-shit-talk-generator/blob/master/screeshot%20of%20website.png?raw=true)
+![網站截圖](https://github.com/surferintaiwan/Semester3-A5-login-feature/blob/master/screenshot%20of%20website.png?raw=true)
 
 ## 功能說明
 1. 使用者輸入正確的帳號及密碼後，可跳轉至歡迎頁面
