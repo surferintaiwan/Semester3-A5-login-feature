@@ -29,12 +29,7 @@ const users = [
 
 function loginVerify(userInput) {
   // 比對用戶輸入的資料跟前面準備好的資料是否相同
-  let trueUser = users.find((eachUser) => {
-    if (eachUser.email === userInput.email && eachUser.password === userInput.password) {
-      return true
-    }
-  })
-  return trueUser
+  return users.find(eachUser.email === userInput.email && eachUser.password === userInput.password)
 }
 
 module.exports = loginVerify
